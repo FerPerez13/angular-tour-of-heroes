@@ -9,4 +9,6 @@
     text-decoration:none;
     border: none;
     outline: none;
+    background-color: rgb(197, 21, 21);
+    color: white; 
   }
